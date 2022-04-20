@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-cee051ae.js",
+    "file": "start-58445db1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-a8410b62.js",
+      "_index-ad2b7b26.js",
       "_singletons-d1fb5791.js"
     ],
     "dynamicImports": [
@@ -23,142 +23,152 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-e668a340.js",
+    "file": "pages/__layout.svelte-664fb247.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js",
+      "_navigation-0e6511d1.js",
+      "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-f8db67dd.css"
+      "assets/pages/__layout.svelte-10fe5bba.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-4c86555f.js",
+    "file": "error.svelte-c26a6968.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-f5d5ec81.js",
+    "file": "pages/index.svelte-098deda6.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js",
+      "_index-ad2b7b26.js",
       "src/routes/components/Home.svelte",
-      "_navigation-2ead1b15.js",
-      "_singletons-d1fb5791.js",
-      "src/routes/components/Hero.svelte"
+      "_Heading-79db9877.js",
+      "src/routes/components/Hero.svelte",
+      "_navigation-0e6511d1.js",
+      "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/components/Home.svelte": {
-    "file": "pages/components/Home.svelte-79395ef4.js",
+    "file": "pages/components/Home.svelte-e0cdc86b.js",
     "src": "src/routes/components/Home.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js",
-      "_navigation-2ead1b15.js",
+      "_index-ad2b7b26.js",
+      "_Heading-79db9877.js",
       "src/routes/components/Hero.svelte",
+      "_navigation-0e6511d1.js",
       "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/components/Hero.svelte": {
-    "file": "pages/components/Hero.svelte-0b0ee8ae.js",
+    "file": "pages/components/Hero.svelte-afc7e86d.js",
     "src": "src/routes/components/Hero.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/components/TopNav.svelte": {
-    "file": "pages/components/TopNav.svelte-0a431812.js",
+    "file": "pages/components/TopNav.svelte-1be2ea0f.js",
     "src": "src/routes/components/TopNav.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/projects/index.svelte": {
-    "file": "pages/projects/index.svelte-4c1ab69b.js",
+    "file": "pages/projects/index.svelte-7f62f85f.js",
     "src": "src/routes/projects/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/contact/index.svelte": {
-    "file": "pages/contact/index.svelte-37724eda.js",
+    "file": "pages/contact/index.svelte-16d0ccc5.js",
     "src": "src/routes/contact/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-e812b4f0.js",
+    "file": "pages/about.svelte-c883c11e.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ]
   },
   "src/routes/dent/index.svelte": {
-    "file": "pages/dent/index.svelte-6aed261b.js",
+    "file": "pages/dent/index.svelte-b802d865.js",
     "src": "src/routes/dent/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js",
-      "_navigation-2ead1b15.js",
+      "_index-ad2b7b26.js",
+      "_Heading-79db9877.js",
       "src/routes/dent/components/DentCard.svelte",
-      "_singletons-d1fb5791.js",
-      "src/routes/dent/components/DentButton.svelte"
+      "_navigation-0e6511d1.js",
+      "src/routes/dent/components/DentButton.svelte",
+      "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/dent/components/DentCard.svelte": {
-    "file": "pages/dent/components/DentCard.svelte-650dfe84.js",
+    "file": "pages/dent/components/DentCard.svelte-228c5a03.js",
     "src": "src/routes/dent/components/DentCard.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js",
+      "_index-ad2b7b26.js",
       "src/routes/dent/components/DentButton.svelte"
     ]
   },
   "src/routes/dent/components/DentButton.svelte": {
-    "file": "pages/dent/components/DentButton.svelte-9698db47.js",
+    "file": "pages/dent/components/DentButton.svelte-c2d38f8f.js",
     "src": "src/routes/dent/components/DentButton.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-a8410b62.js"
+      "_index-ad2b7b26.js"
     ],
     "css": [
       "assets/pages/dent/components/DentButton.svelte-81103f1d.css"
     ]
   },
-  "_index-a8410b62.js": {
-    "file": "chunks/index-a8410b62.js"
+  "_index-ad2b7b26.js": {
+    "file": "chunks/index-ad2b7b26.js"
   },
   "_singletons-d1fb5791.js": {
     "file": "chunks/singletons-d1fb5791.js"
   },
-  "_navigation-2ead1b15.js": {
-    "file": "chunks/navigation-2ead1b15.js",
+  "_navigation-0e6511d1.js": {
+    "file": "chunks/navigation-0e6511d1.js",
     "imports": [
-      "_index-a8410b62.js",
       "_singletons-d1fb5791.js"
+    ]
+  },
+  "_Heading-79db9877.js": {
+    "file": "chunks/Heading-79db9877.js",
+    "imports": [
+      "_index-ad2b7b26.js"
     ]
   }
 }
